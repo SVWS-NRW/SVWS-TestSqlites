@@ -1,4 +1,5 @@
 # SVWS-TestSqlites
+
 eine kleine Auswahl anonymisierter Standard-Testdatenbanken
 
 ## Dokumentation
@@ -7,25 +8,25 @@ Jede Datenbank ist vollständig anonymisiert (Quelle: [SVWS-TestMDBs](https://gi
 
 Die fachliche Administration der Schule ist jeweils *Admin*, das Passwort ist nicht gesetzt.
 
-## Datenbanken 
+## Datenbanken
 
-### Grundschule & Förderschule 
+### Grundschule & Förderschule
 
 + SJ 2026/27
 + Ankreuzzeugnissen in 2 Jahrgangstufen
 
-### Sekundarstufe I & Gesamtschule 
+### Sekundarstufe I & Gesamtschule
 
 + SJ 2026/27
 + Prognosdaten enthalten
 + ToDO: Kurszuordnungen prüfen
 
-### gymnasiale Oberstufe 
+### gymnasiale Oberstufe
 
 + SJ 2026/27
 + mit Fachwahlen
 + G9 Jahrgangstufe
-+ Abi 20230 Wahlen
++ Abi 2030 Wahlen
 + Stundenplan integriert
 
 ### Berufskolleg
