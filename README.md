@@ -8,6 +8,12 @@ Jede Datenbank ist vollständig anonymisiert (Quelle: [SVWS-TestMDBs](https://gi
 
 Die fachliche Administration der Schule ist jeweils *Admin*, das Passwort ist nicht gesetzt.
 
+## Zugangsdaten
+
+I.d.R. ist der Benutzer "admin", "schulleitung" und "sekretariat" ohne Passwort eingerichtet. 
+
+Die Lehrkräfte sind mit ihrem Kürzel als Benutzername und Passwort eingerichtet. Eine Benutzerliste befindet sich in diesem Repository. 
+
 ## Datenbanken
 
 ### Grundschule & Förderschule
